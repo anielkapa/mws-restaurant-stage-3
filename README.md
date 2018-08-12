@@ -1,3 +1,14 @@
+# Running website in localhost
+## Frontend
+launch python -m SimpleHTTPServer 8080 in the folder "dist"
+
+##Backend
+launch sails server through the command node server in the main folder
+
+The folder src contains all the frontend files before gulp optimizations
+
+
+
 # Local Development API Server
 ## Usage
 #### Get Restaurants
